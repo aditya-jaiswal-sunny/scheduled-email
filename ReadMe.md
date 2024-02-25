@@ -3,6 +3,7 @@
 this is using gmail to send email using nodemailer
 
 # ENV
+
 PORT=3001
 MONGODB_URL=mongodb://127.0.0.1:27017/emailSchedule
 USERNAME=your-email
